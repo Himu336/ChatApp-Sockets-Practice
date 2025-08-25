@@ -1,0 +1,24 @@
+{
+  "name": "chatapp-sockets-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himu336/ChatApp-Sockets-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Himu336/ChatApp-Sockets-Practice/issues"
+  },
+  "homepage": "https://github.com/Himu336/ChatApp-Sockets-Practice#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "socket.io": "^4.8.1"
+  }
+}
